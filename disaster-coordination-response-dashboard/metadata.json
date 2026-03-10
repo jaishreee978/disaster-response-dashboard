@@ -1,0 +1,5 @@
+{
+  "name": "Disaster Coordination Response Dashboard",
+  "description": "A professional, real-time command center for government disaster management authorities to coordinate incidents, resources, and rescue teams.",
+  "requestFramePermissions": ["geolocation"]
+}
